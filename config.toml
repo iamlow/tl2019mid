@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "comming soon;"
+  homeSubtitle = "coming soon;"
   # footerCopyright = ' &#183; sales@telelian.com &#183; 1342, Seongnam-daero, Sujeong-gu Seongnam-si, Gyeonggi-do, Korea'
   footerCopyright = ' &#183; sales@telelian.com'
   # bgImg = ""  # Homepage background-image URL
