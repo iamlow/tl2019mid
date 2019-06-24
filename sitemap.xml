@@ -85,6 +85,12 @@
   </url>
   
   <url>
+    <loc>https://telelian.com/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://telelian.com/tags/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
     <priority>0</priority>
@@ -105,12 +111,6 @@
   <url>
     <loc>https://telelian.com/tags/typography/</loc>
     <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://telelian.com/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
